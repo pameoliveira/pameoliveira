@@ -1,7 +1,7 @@
 <img src="https://thumbs.gfycat.com/AltruisticIgnorantGreathornedowl-size_restricted.gif" width="300px" align="right">
 <p align="left"> 
   <h1> Pamela Santos de Oliveira </h1>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut porttitor leo a diam sollicitudin. Nibh  venenatis cras sed felis eget. Hac habitasse platea dictumst quisque sagittis purus sit amet. Aenean et tortor at risus viverra adipiscing at in. Fames ac turpis egestas sed   tempus urna et. Morbi tempus iaculis urna id volutpat. Amet consectetur adipiscing elit ut aliquam. Orci eu lobortis elementum nibh. Imperdiet proin fermentum leo vel orci porta non. 
+  Oi! Meu nome é Pamela, tenho 27 anos e atualmente estudo Desenvolvimento Web Full Stack. Me identifico com back-end e front-end igualmente. Estou estudando outras linguagens também. 
 </p>
 
 <br>
