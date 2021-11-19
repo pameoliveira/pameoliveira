@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://thumbs.gfycat.com/AltruisticIgnorantGreathornedowl-size_restricted.gif" width="300px" align="right">
 <p align="left"> 
   <h1> Pamela Santos de Oliveira </h1>
